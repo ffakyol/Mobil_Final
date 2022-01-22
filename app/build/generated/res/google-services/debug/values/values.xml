@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">996940207936-um5nudmc9lf2n6q2ve5m4tc7pmokjoff.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">996940207936</string>
+    <string name="google_api_key" translatable="false">AIzaSyAXjOzzclJZ3HAM-I1aQRCV-bKk5K9jHN4</string>
+    <string name="google_app_id" translatable="false">1:996940207936:android:e3a036ac98f3e581c34ca5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAXjOzzclJZ3HAM-I1aQRCV-bKk5K9jHN4</string>
+    <string name="google_storage_bucket" translatable="false">anonim-chat-uygulamam.appspot.com</string>
+    <string name="project_id" translatable="false">anonim-chat-uygulamam</string>
+</resources>
